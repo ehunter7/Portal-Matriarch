@@ -11,6 +11,9 @@ Bubbles EMS (Employee Portal)
   * [Questions](#questions)
   * [Screenshots](#screenshots)
 
+## Link to Site
+
+[Live Site](https://peaceful-castle-79357.herokuapp.com/)
 
 ## User Story 
 Bubbles EMS is a employee portal that gives smaller businesses/companies a chance to partake in having a employee protal for their business that they are trying to run. It gives the user a chance to create users for the EMS system in which these users can then login and view what time they will start work, view the message boards/news, comment on posts, check time, check pay, and check out the work directory. Bubbles EMS will also have an admin portal in which an admin will be able to create users, manage message boards, create schedules using a calender, and manage users accounts. Its a simple, user freindly way in which small companies/businesses can manage their employees. 
